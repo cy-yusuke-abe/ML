@@ -1,0 +1,15 @@
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/Accord.dll.config
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/Accord.dll
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/Accord.Genetic.dll
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/Accord.IO.dll
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/Accord.MachineLearning.dll
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/Accord.Math.dll
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/Accord.Math.Core.dll
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/Accord.Neuro.dll
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/Accord.Statistics.dll
+/Users/bc-mac-025/RiderProjects/ML/ConsoleApplication1/bin/Debug/ICSharpCode.SharpZipLib.dll
